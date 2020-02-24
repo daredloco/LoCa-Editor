@@ -1,0 +1,20 @@
+﻿language_key=en
+language_english=English
+language_local=English
+language_author=Roman Wanner
+language_version=1.0
+
+menu_main=File
+menu_open=Open Folder
+menu_settings=Settings
+menu_exit=Exit
+
+main_localizations=Localizations
+
+main_key=Key
+main_english=English
+main_local=Local
+main_author=Author
+main_version=Version
+
+main_localization=Localization

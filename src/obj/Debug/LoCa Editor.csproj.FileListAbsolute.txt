@@ -1,0 +1,10 @@
+C:\Users\Roman\source\repos\LoCa Editor\LoCa Editor\bin\Debug\LoCa Editor.exe.config
+C:\Users\Roman\source\repos\LoCa Editor\LoCa Editor\bin\Debug\LoCa Editor.exe
+C:\Users\Roman\source\repos\LoCa Editor\LoCa Editor\bin\Debug\LoCa Editor.pdb
+C:\Users\Roman\source\repos\LoCa Editor\LoCa Editor\obj\Debug\LoCa_Editor.MainForm.resources
+C:\Users\Roman\source\repos\LoCa Editor\LoCa Editor\obj\Debug\LoCa_Editor.Properties.Resources.resources
+C:\Users\Roman\source\repos\LoCa Editor\LoCa Editor\obj\Debug\LoCa Editor.csproj.GenerateResource.cache
+C:\Users\Roman\source\repos\LoCa Editor\LoCa Editor\obj\Debug\LoCa Editor.exe
+C:\Users\Roman\source\repos\LoCa Editor\LoCa Editor\obj\Debug\LoCa Editor.pdb
+C:\Users\Roman\source\repos\LoCa Editor\LoCa Editor\bin\Debug\Localization\english.txt
+C:\Users\Roman\source\repos\LoCa Editor\LoCa Editor\obj\Debug\LoCa_Editor.EditForm.resources
